@@ -86,6 +86,9 @@ body {
 .site-header.site-header.white-header .site-nav-link {
   color: #000;
 }
+.site-header.site-header.white-header .site-nav-link:hover {
+  color: tomato;
+}
 .site-nav-link:hover {
   color: tomato;
 }
